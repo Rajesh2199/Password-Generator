@@ -4,4 +4,6 @@ The random password generator generates a random password for users based upon t
 ## Applications Used
 This application was built using mainly Javascript, HTML and CSS. The main focus is on utilizing prompts, alerts, and confirm methods. Similarly, we again use Javascript to store user inputs inside of a variable and then use the variable in functions as per our need. This application also requires the use of for loop.
 
+
+## Link to Deployed Application
 https://rajesh2199.github.io/Password-Generator/.
