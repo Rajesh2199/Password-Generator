@@ -7,3 +7,9 @@ This application was built using mainly Javascript, HTML and CSS. The main focus
 
 ## Link to Deployed Application
 https://rajesh2199.github.io/Password-Generator/.
+
+
+## Screenshots 
+<img width="1987" alt="Screen Shot 2020-07-30 at 6 14 24 PM" src="https://user-images.githubusercontent.com/61152071/88986613-bad70a00-d290-11ea-8b2e-ac6686576fde.png">
+<img width="1861" alt="Screen Shot 2020-07-30 at 6 14 44 PM" src="https://user-images.githubusercontent.com/61152071/88986615-bc083700-d290-11ea-813a-04309272ec4f.png">
+
